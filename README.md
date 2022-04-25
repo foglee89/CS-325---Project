@@ -19,7 +19,7 @@ You can move to only an empty cell and cannot move to a cell with a barrier in i
 
 Sample Input Puzzle Board: [[-,-,-,-,-],[-,-,#,-,-],[-,-,-,-,-],[#,-,#,#,-],[-#,-,-,-]]
 
-| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 | - | - | - | - | - |
 | - | - | # | - | - |
 | - | - | - | - | - |
